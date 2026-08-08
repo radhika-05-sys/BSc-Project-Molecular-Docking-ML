@@ -39,5 +39,6 @@ Target:
 The docking results and machine learning results are provided
 in the Results folder.
 
-## Project Report
-The complete project report is available in the repository.
+## Project Documentation
+The repository contains the datasets, molecular docking results,
+machine learning code, prediction results, and project figures.
